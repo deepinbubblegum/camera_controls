@@ -1,0 +1,7 @@
+{
+    "programmer": "ArduinoISP.org",
+    "board": "esp32:esp32:lolin32",
+    "configuration": "FlashFreq=80,PartitionScheme=default,CPUFreq=240,UploadSpeed=921600",
+    "sketch": "CameraSerialBT.ino",
+    "port": "COM6"
+}

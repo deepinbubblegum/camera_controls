@@ -1,0 +1,54 @@
+C:\GMC2018\EDSDKLib-1.1.2\EDSDKLib\bin\Release\EDSDKLib.xml
+C:\GMC2018\EDSDKLib-1.1.2\EDSDKLib\bin\Release\EDSDKLib.dll
+C:\GMC2018\EDSDKLib-1.1.2\EDSDKLib\bin\Release\EDSDKLib.pdb
+C:\GMC2018\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Release\EDSDKLib.dll
+C:\GMC2018\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Release\EDSDKLib.pdb
+D:\GMC2018\EDSDKLib-1.1.2\EDSDKLib\bin\Release\EDSDKLib.xml
+D:\GMC2018\EDSDKLib-1.1.2\EDSDKLib\bin\Release\EDSDKLib.dll
+D:\GMC2018\EDSDKLib-1.1.2\EDSDKLib\bin\Release\EDSDKLib.pdb
+D:\GMC2018\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Release\EDSDKLib.dll
+D:\GMC2018\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Release\EDSDKLib.pdb
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\EDSDKLib\bin\Release\EDSDKLib.xml
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\EDSDKLib\bin\Release\EDSDKLib.dll
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\EDSDKLib\bin\Release\EDSDKLib.pdb
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\EDSDKLib\obj\x86\Release\EDSDKLib.csproj.CoreCompileInputs.cache
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\EDSDKLib\obj\x86\Release\EDSDKLib.dll
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\EDSDKLib\obj\x86\Release\EDSDKLib.pdb
+C:\GROUPMAKER\Protoys 3DPhoto2020\EDSDKLib\bin\Release\EDSDKLib.xml
+C:\GROUPMAKER\Protoys 3DPhoto2020\EDSDKLib\bin\Release\EDSDKLib.dll
+C:\GROUPMAKER\Protoys 3DPhoto2020\EDSDKLib\bin\Release\EDSDKLib.pdb
+C:\GROUPMAKER\Protoys 3DPhoto2020\EDSDKLib\obj\x86\Release\EDSDKLib.csproj.CoreCompileInputs.cache
+C:\GROUPMAKER\Protoys 3DPhoto2020\EDSDKLib\obj\x86\Release\EDSDKLib.dll
+C:\GROUPMAKER\Protoys 3DPhoto2020\EDSDKLib\obj\x86\Release\EDSDKLib.pdb
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\EDSDKLib\bin\Release\EDSDKLib.xml
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\EDSDKLib\bin\Release\EDSDKLib.dll
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\EDSDKLib\bin\Release\EDSDKLib.pdb
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\EDSDKLib\obj\x86\Release\EDSDKLib.csproj.CoreCompileInputs.cache
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\EDSDKLib\obj\x86\Release\EDSDKLib.dll
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\EDSDKLib\obj\x86\Release\EDSDKLib.pdb
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\EDSDKLib\bin\Release\EDSDKLib.xml
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\EDSDKLib\bin\Release\EDSDKLib.dll
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\EDSDKLib\bin\Release\EDSDKLib.pdb
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\EDSDKLib\obj\x86\Release\EDSDKLib.csproj.CoreCompileInputs.cache
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\EDSDKLib\obj\x86\Release\EDSDKLib.dll
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\EDSDKLib\obj\x86\Release\EDSDKLib.pdb
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\EDSDKLib\obj\x86\Release\EDSDKLib.csprojAssemblyReference.cache
+D:\Camera_control\Protoys 3DPhoto2020_061163\EDSDKLib\bin\Release\EDSDKLib.xml
+D:\Camera_control\Protoys 3DPhoto2020_061163\EDSDKLib\bin\Release\EDSDKLib.dll
+D:\Camera_control\Protoys 3DPhoto2020_061163\EDSDKLib\bin\Release\EDSDKLib.pdb
+D:\Camera_control\Protoys 3DPhoto2020_061163\EDSDKLib\obj\x86\Release\EDSDKLib.csproj.CoreCompileInputs.cache
+D:\Camera_control\Protoys 3DPhoto2020_061163\EDSDKLib\obj\x86\Release\EDSDKLib.dll
+D:\Camera_control\Protoys 3DPhoto2020_061163\EDSDKLib\obj\x86\Release\EDSDKLib.pdb
+D:\Protoys 3DPhoto2020_061163\EDSDKLib\bin\Release\EDSDKLib.xml
+D:\Protoys 3DPhoto2020_061163\EDSDKLib\bin\Release\EDSDKLib.dll
+D:\Protoys 3DPhoto2020_061163\EDSDKLib\bin\Release\EDSDKLib.pdb
+D:\Protoys 3DPhoto2020_061163\EDSDKLib\obj\x86\Release\EDSDKLib.csprojAssemblyReference.cache
+D:\Protoys 3DPhoto2020_061163\EDSDKLib\obj\x86\Release\EDSDKLib.csproj.CoreCompileInputs.cache
+D:\Protoys 3DPhoto2020_061163\EDSDKLib\obj\x86\Release\EDSDKLib.dll
+D:\Protoys 3DPhoto2020_061163\EDSDKLib\obj\x86\Release\EDSDKLib.pdb
+D:\camera_controls\Protoys 3DPhoto2020_061163\EDSDKLib\bin\Release\EDSDKLib.xml
+D:\camera_controls\Protoys 3DPhoto2020_061163\EDSDKLib\bin\Release\EDSDKLib.dll
+D:\camera_controls\Protoys 3DPhoto2020_061163\EDSDKLib\bin\Release\EDSDKLib.pdb
+D:\camera_controls\Protoys 3DPhoto2020_061163\EDSDKLib\obj\x86\Release\EDSDKLib.csproj.CoreCompileInputs.cache
+D:\camera_controls\Protoys 3DPhoto2020_061163\EDSDKLib\obj\x86\Release\EDSDKLib.dll
+D:\camera_controls\Protoys 3DPhoto2020_061163\EDSDKLib\obj\x86\Release\EDSDKLib.pdb

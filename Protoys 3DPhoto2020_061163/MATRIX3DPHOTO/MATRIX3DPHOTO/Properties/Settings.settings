@@ -1,0 +1,126 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MATRIX3DPHOTO.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SFXTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Length" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Loop" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="Type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Resolution" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="WaterMarkPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test_franchise\bin\04SFXinsert\watermark.png</Value>
+    </Setting>
+    <Setting Name="TitleVdoPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test_franchise\bin\04SFXinsert\title.mp4</Value>
+    </Setting>
+    <Setting Name="EndVdoPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test_franchise\bin\04SFXinsert\end.mp4</Value>
+    </Setting>
+    <Setting Name="PNGSeqPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test_franchise\bin\04SFXinsert\PNGsquences</Value>
+    </Setting>
+    <Setting Name="BackupPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test_franchise\bin\03SFXbackup</Value>
+    </Setting>
+    <Setting Name="BackupVdoPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test_franchise\bin\03SFXbackup</Value>
+    </Setting>
+    <Setting Name="OutputPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test_franchise\bin\02SFXoutput</Value>
+    </Setting>
+    <Setting Name="MaxCamera" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="ServiceMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MasterConfig" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="InputPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test_franchise\bin\01SFXinput</Value>
+    </Setting>
+    <Setting Name="CountDownEnable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PreviewEnable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CountDownPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test_franchise\bin\04SFXinsert\Countdown</Value>
+    </Setting>
+    <Setting Name="LiveViewMarkerPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test_franchise\bin\04SFXinsert\LiveView_Marker.png</Value>
+    </Setting>
+    <Setting Name="PromoVdoPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test_franchise\bin\04SFXinsert\PromoVdo.mp4</Value>
+    </Setting>
+    <Setting Name="SoundPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SpaceBarFire" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RigthClickFire" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PreviewBeforeFire" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="WebcamDevice" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SFXType" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="FilterSoundPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test_franchise\bin\04SFXinsert\filtersound.mov</Value>
+    </Setting>
+    <Setting Name="Setting_mode" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="COM_Ports" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM5</Value>
+    </Setting>
+    <Setting Name="Camera1_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Camera2_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Camera3_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Camera4_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Camera5_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Camera6_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Camera7_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Camera8_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Camera9_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Camera10_interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

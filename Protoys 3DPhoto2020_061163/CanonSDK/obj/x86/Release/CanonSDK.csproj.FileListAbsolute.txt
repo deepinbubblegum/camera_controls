@@ -1,0 +1,126 @@
+C:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\bin\Release\CanonSDK.exe.config
+C:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\bin\Release\CanonSDK.exe
+C:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\bin\Release\CanonSDK.pdb
+C:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\bin\Release\EDSDKLib.dll
+C:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\bin\Release\EDSDKLib.pdb
+C:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\bin\Release\EDSDKLib.xml
+C:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Release\CanonSDK.csprojResolveAssemblyReference.cache
+C:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Release\CanonSDK.MainForm.resources
+C:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Release\CanonSDK.csproj.GenerateResource.Cache
+C:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Release\CanonSDK.exe
+C:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Release\CanonSDK.pdb
+D:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\bin\Release\CanonSDK.exe.config
+D:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\bin\Release\CanonSDK.exe
+D:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\bin\Release\CanonSDK.pdb
+D:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\bin\Release\EDSDKLib.dll
+D:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\bin\Release\EDSDKLib.pdb
+D:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\bin\Release\EDSDKLib.xml
+D:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Release\CanonSDK.csprojResolveAssemblyReference.cache
+D:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Release\CanonSDK.MainForm.resources
+D:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Release\CanonSDK.csproj.GenerateResource.Cache
+D:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Release\CanonSDK.exe
+D:\GMC2018\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Release\CanonSDK.pdb
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\WinFormsExample\bin\Release\CanonSDK.exe.config
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\WinFormsExample\bin\Release\CanonSDK.exe
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\WinFormsExample\bin\Release\CanonSDK.pdb
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\WinFormsExample\bin\Release\EDSDKLib.dll
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\WinFormsExample\bin\Release\EDSDKLib.pdb
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\WinFormsExample\bin\Release\EDSDKLib.xml
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\WinFormsExample\obj\x86\Release\CanonSDK.csprojAssemblyReference.cache
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\WinFormsExample\obj\x86\Release\CanonSDK.MainForm.resources
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\WinFormsExample\obj\x86\Release\CanonSDK.csproj.GenerateResource.cache
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\WinFormsExample\obj\x86\Release\CanonSDK.csproj.CoreCompileInputs.cache
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\WinFormsExample\obj\x86\Release\CanonSDK.csproj.CopyComplete
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\WinFormsExample\obj\x86\Release\CanonSDK.exe
+C:\GROUPMAKER\EDSDKLib-1.1.2 Reconfig\WinFormsExample\obj\x86\Release\CanonSDK.pdb
+C:\GROUPMAKER\Protoys 3DPhoto2020\CanonSDK\bin\Release\CanonSDK.exe.config
+C:\GROUPMAKER\Protoys 3DPhoto2020\CanonSDK\bin\Release\CanonSDK.exe
+C:\GROUPMAKER\Protoys 3DPhoto2020\CanonSDK\bin\Release\CanonSDK.pdb
+C:\GROUPMAKER\Protoys 3DPhoto2020\CanonSDK\bin\Release\EDSDKLib.dll
+C:\GROUPMAKER\Protoys 3DPhoto2020\CanonSDK\bin\Release\EDSDKLib.pdb
+C:\GROUPMAKER\Protoys 3DPhoto2020\CanonSDK\bin\Release\EDSDKLib.xml
+C:\GROUPMAKER\Protoys 3DPhoto2020\CanonSDK\obj\x86\Release\CanonSDK.csprojAssemblyReference.cache
+C:\GROUPMAKER\Protoys 3DPhoto2020\CanonSDK\obj\x86\Release\CanonSDK.MainForm.resources
+C:\GROUPMAKER\Protoys 3DPhoto2020\CanonSDK\obj\x86\Release\CanonSDK.csproj.GenerateResource.cache
+C:\GROUPMAKER\Protoys 3DPhoto2020\CanonSDK\obj\x86\Release\CanonSDK.csproj.CoreCompileInputs.cache
+C:\GROUPMAKER\Protoys 3DPhoto2020\CanonSDK\obj\x86\Release\CanonSDK.csproj.CopyComplete
+C:\GROUPMAKER\Protoys 3DPhoto2020\CanonSDK\obj\x86\Release\CanonSDK.exe
+C:\GROUPMAKER\Protoys 3DPhoto2020\CanonSDK\obj\x86\Release\CanonSDK.pdb
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\CanonSDK\bin\Release\CanonSDK.exe.config
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\CanonSDK\bin\Release\CanonSDK.exe
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\CanonSDK\bin\Release\CanonSDK.pdb
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\CanonSDK\bin\Release\EDSDKLib.dll
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\CanonSDK\bin\Release\EDSDKLib.pdb
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\CanonSDK\bin\Release\EDSDKLib.xml
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\CanonSDK\obj\x86\Release\CanonSDK.csprojAssemblyReference.cache
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\CanonSDK\obj\x86\Release\CanonSDK.MainForm.resources
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\CanonSDK\obj\x86\Release\CanonSDK.csproj.GenerateResource.cache
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\CanonSDK\obj\x86\Release\CanonSDK.csproj.CoreCompileInputs.cache
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\CanonSDK\obj\x86\Release\CanonSDK.csproj.CopyComplete
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\CanonSDK\obj\x86\Release\CanonSDK.exe
+C:\Users\GMC\Desktop\Protoys 3DPhoto2020_1\CanonSDK\obj\x86\Release\CanonSDK.pdb
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\CanonSDK\bin\Release\CanonSDK.exe.config
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\CanonSDK\bin\Release\CanonSDK.exe
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\CanonSDK\bin\Release\CanonSDK.pdb
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\CanonSDK\bin\Release\EDSDKLib.dll
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\CanonSDK\bin\Release\EDSDKLib.pdb
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\CanonSDK\bin\Release\EDSDKLib.xml
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\CanonSDK\obj\x86\Release\CanonSDK.csprojAssemblyReference.cache
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\CanonSDK\obj\x86\Release\CanonSDK.MainForm.resources
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\CanonSDK\obj\x86\Release\CanonSDK.csproj.GenerateResource.cache
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\CanonSDK\obj\x86\Release\CanonSDK.csproj.CoreCompileInputs.cache
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\CanonSDK\obj\x86\Release\CanonSDK.csproj.CopyComplete
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\CanonSDK\obj\x86\Release\CanonSDK.exe
+D:\DESKTOP 7-7-2020\Protoys 3DPhoto2020_1\CanonSDK\obj\x86\Release\CanonSDK.pdb
+D:\Camera_control\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\CanonSDK.exe.config
+D:\Camera_control\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\CanonSDK.exe
+D:\Camera_control\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\CanonSDK.pdb
+D:\Camera_control\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\EDSDKLib.dll
+D:\Camera_control\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\EDSDKLib.pdb
+D:\Camera_control\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\EDSDKLib.xml
+D:\Camera_control\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csprojAssemblyReference.cache
+D:\Camera_control\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.MainForm.resources
+D:\Camera_control\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csproj.GenerateResource.cache
+D:\Camera_control\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csproj.CoreCompileInputs.cache
+D:\Camera_control\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csproj.CopyComplete
+D:\Camera_control\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.exe
+D:\Camera_control\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.pdb
+D:\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\CanonSDK.exe.config
+D:\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\CanonSDK.exe
+D:\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\CanonSDK.pdb
+D:\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\EDSDKLib.dll
+D:\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\EDSDKLib.pdb
+D:\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\EDSDKLib.xml
+D:\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csprojAssemblyReference.cache
+D:\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.MainForm.resources
+D:\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csproj.GenerateResource.cache
+D:\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csproj.CoreCompileInputs.cache
+D:\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csproj.CopyComplete
+D:\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.exe
+D:\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.pdb
+D:\camera_controls\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csprojAssemblyReference.cache
+D:\camera_controls\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.MainForm.resources
+D:\camera_controls\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csproj.GenerateResource.cache
+D:\camera_controls\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csproj.CoreCompileInputs.cache
+D:\camera_controls\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\CanonSDK.exe.config
+D:\camera_controls\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\CanonSDK.exe
+D:\camera_controls\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\CanonSDK.pdb
+D:\camera_controls\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\EDSDKLib.dll
+D:\camera_controls\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\EDSDKLib.pdb
+D:\camera_controls\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\EDSDKLib.xml
+D:\camera_controls\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csproj.CopyComplete
+D:\camera_controls\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.exe
+D:\camera_controls\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.pdb
+D:\camera_controls2\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\CanonSDK.exe.config
+D:\camera_controls2\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\CanonSDK.exe
+D:\camera_controls2\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\CanonSDK.pdb
+D:\camera_controls2\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\EDSDKLib.dll
+D:\camera_controls2\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\EDSDKLib.pdb
+D:\camera_controls2\Protoys 3DPhoto2020_061163\CanonSDK\bin\Release\EDSDKLib.xml
+D:\camera_controls2\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csprojAssemblyReference.cache
+D:\camera_controls2\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.MainForm.resources
+D:\camera_controls2\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csproj.GenerateResource.cache
+D:\camera_controls2\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csproj.CoreCompileInputs.cache
+D:\camera_controls2\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.csproj.CopyComplete
+D:\camera_controls2\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.exe
+D:\camera_controls2\Protoys 3DPhoto2020_061163\CanonSDK\obj\x86\Release\CanonSDK.pdb
